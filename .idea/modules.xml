@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OneDrive_2021-03-11/OneDrive_2021-03-11.iml" filepath="$PROJECT_DIR$/OneDrive_2021-03-11/OneDrive_2021-03-11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baliky/baliky.iml" filepath="$PROJECT_DIR$/baliky/baliky.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cvicenie1/cvicenie1.iml" filepath="$PROJECT_DIR$/cvicenie1/cvicenie1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cvicenie4/cvicenie4.iml" filepath="$PROJECT_DIR$/cvicenie4/cvicenie4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cvicenie5/cvicenie5.iml" filepath="$PROJECT_DIR$/cvicenie5/cvicenie5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/informatika.iml" filepath="$PROJECT_DIR$/.idea/informatika.iml" />
+    </modules>
+  </component>
+</project>
